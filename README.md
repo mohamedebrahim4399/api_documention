@@ -1194,7 +1194,7 @@ Top Doctors
 ---
 ### <span id="update_doctors_date">PATCH/doctors/dates/{date_id}</span>
 - Update Doctor's Date
-- ``` https://thediseasefighter.herokuapp.com/doctors/dates/{date_id} ```
+- ``` https://thediseasefighter.herokuapp.com/doctors/dates/3 ```
 - in header request <pre>Authorization:Bearer <access_token></pre>
 - The json body  <pre>{ 
     "start_time": "01:00 pm",
